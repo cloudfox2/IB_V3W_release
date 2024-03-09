@@ -1,6 +1,6 @@
 # IB_V3W
 
-IB的个人改版，基于 [Noway更新](https://github.com/impossible-bosses/impossible-bosses-public) 的1.10.5版本  
+魔兽地图《不可能的Boss》的个人改版，基于 [Noway更新](https://github.com/impossible-bosses/impossible-bosses-public) 的1.10.5版本  
 改动以作者 Psyris 的设计理念为宗旨，主要进行一些平衡与难度调整，顺便进行一些bug修复与体验优化  
 下载地址与具体改动见 [Release页面](https://github.com/cloudfox2/IB_V3W_release/releases)  
 
