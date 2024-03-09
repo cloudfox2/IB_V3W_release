@@ -9,7 +9,7 @@ IB的个人改版，基于 [Noway更新](https://github.com/impossible-bosses/im
 1.恶魔不显示卷轴抗性  
 2.可买多个群活、漩涡（第二个无效？）  
 3.球类物品自动移动到恶魔准备区域  
-4.TODO≠我会做  
+4.TODO ≠ 我会做  
 
 ## 待定issue
 
@@ -18,4 +18,4 @@ IB的个人改版，基于 [Noway更新](https://github.com/impossible-bosses/im
 3.[五行无常]突破装备限制  
 4.AS快速触发[凤凰的遗产]  
 5.加成伤害仍然计算抗性（相当于计算两次抗性）  
-6.待定=不做  
+6.待定 = 我不做  
